@@ -12,7 +12,8 @@
 
 # Ejemplo de Salida
 
-![image](https://github.com/user-attachments/assets/4dd3b951-7cf3-4e98-b2aa-643d725ae0ba)
+![image](https://github.com/user-attachments/assets/295aee01-07ef-4293-bd11-985904a89c71)
+
 
 
 
