@@ -10,7 +10,8 @@
 
 ---
 
-Imagen de las respuestas del terminal
+#Ejemplo de Salida
+
 ![image](https://github.com/user-attachments/assets/4dd3b951-7cf3-4e98-b2aa-643d725ae0ba)
 
 
