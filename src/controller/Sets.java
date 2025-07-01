@@ -13,34 +13,40 @@ public class Sets {
     //vamos a hacer que el metodo retorne la variable
     public Set<String> construirHashSet(){
         Set<String> palabras = new HashSet<>(); //generico
-        palabras.add("Chocolate");
-        palabras.add("Computador");
-        palabras.add("Frutilla");
-        palabras.add("Chocolate");
+        palabras.add("Laptop");
+        palabras.add("Manzana");
         palabras.add("Pera");
-        palabras.add("Computador");
+        palabras.add("Celular");
+        palabras.add("Laptop");
+        palabras.add("Pera");
+        palabras.add("Laptop");
+        palabras.add("Celulas");
         return palabras;
     }
 
     public Set<String> construirLinkedHashSet(){
         Set<String> linkedWords = new LinkedHashSet<>();
-        linkedWords.add("Chocolate");
-        linkedWords.add("Computador");
-        linkedWords.add("Frutilla");
-        linkedWords.add("Chocolate");
+        linkedWords.add("Laptop");
+        linkedWords.add("Manzana");
         linkedWords.add("Pera");
-        linkedWords.add("Computador");
+        linkedWords.add("Celular");
+        linkedWords.add("Laptop");
+        linkedWords.add("Pera");
+        linkedWords.add("Laptop");
+        linkedWords.add("Celulas");
         return linkedWords;
     }
 
     public Set<String> construirTreeSet(){
         Set<String> treeWords = new TreeSet<>();
-        treeWords.add("Chocolate");
-        treeWords.add("Computador");
-        treeWords.add("Frutilla");
-        treeWords.add("Chocolate");
+        treeWords.add("Laptop");
+        treeWords.add("Manzana");
         treeWords.add("Pera");
-        treeWords.add("Computador");
+        treeWords.add("Celular");
+        treeWords.add("Laptop");
+        treeWords.add("Pera");
+        treeWords.add("Laptop");
+        treeWords.add("Celulas");
         return treeWords;
     }
 
