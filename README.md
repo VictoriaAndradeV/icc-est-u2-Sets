@@ -1,18 +1,19 @@
-## Getting Started
+# Práctica de Colecciones - Sets
+## 📌 Información General
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+- *Título:* Práctica de Colecciones - Sets
+- *Asignatura:* Estructura de Datos
+- *Carrera:* Computación
+- *Estudiante:* Victoria Andrade
+- *Fecha:* 01/07/2025
+- *Profesor:* Ing. Pablo Torres
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+# Ejemplo de Salida
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+![image](https://github.com/user-attachments/assets/295aee01-07ef-4293-bd11-985904a89c71)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
