@@ -1,17 +1,21 @@
+import controller.ContactoController;
 import controller.Sets;
 import java.util.Set;
 
 public class App {
     public static void main(String[] args) throws Exception {
         Sets sets = new Sets();
-        System.out.println("Autor: Victoria Andrade");
+        /*System.out.println("Autor: Victoria Andrade");
         runHashSet(sets);
         System.out.println("\n");
         runLinkedHashSet(sets);
         System.out.println("\n");
         runTreeSet(sets);
         System.out.println("\n");
-        runComparationTreeSet(sets);
+        runComparationTreeSet(sets);*/
+
+        ContactoController cC = new ContactoController();
+        
     }
 
     public static void runHashSet(Sets sets){
