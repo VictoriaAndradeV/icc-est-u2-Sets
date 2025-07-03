@@ -1,12 +1,12 @@
-import controller.ContactoController;
 import controller.Sets;
+import controller.ejercicios.Ejercicio;
 import java.util.Set;
 
 public class App {
     public static void main(String[] args) throws Exception {
         Sets sets = new Sets();
-        /*System.out.println("Autor: Victoria Andrade");
-        runHashSet(sets);
+        System.out.println("Autor: Victoria Andrade");
+        /*runHashSet(sets);
         System.out.println("\n");
         runLinkedHashSet(sets);
         System.out.println("\n");
@@ -14,7 +14,8 @@ public class App {
         System.out.println("\n");
         runComparationTreeSet(sets);*/
 
-        ContactoController cC = new ContactoController();
+        //ContactoController cC = new ContactoController();
+        Ejercicio ejercicio = new Ejercicio();
         
     }
 
